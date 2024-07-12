@@ -1,0 +1,8 @@
+/* src/Components/HomePage/SimpleSlider.css */
+
+@media (min-width: 375px) and (max-width: 425px) {
+    .custom-slider-padding {
+      padding-bottom: 0 !important;
+    }
+  }
+  
