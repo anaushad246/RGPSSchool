@@ -12,12 +12,12 @@ const imageUrlsa = [
 
 const imageUrls = [
   {
-    url: 'https://media.istockphoto.com/id/1409722748/photo/students-raising-hands-while-teacher-asking-them-questions-in-classroom.jpg?s=1024x1024&w=is&k=20&c=O8LmEkgurXoSDDC3BBqbGVODioeTuzHr5nRyt8p8io8=',
+    url: 'pdf1_page-0001.jpg',
     alt: 'Students raising hands in classroom',
     link: '(link unavailable)'
   },
   {
-    url: 'https://media.istockphoto.com/id/585609744/photo/school-kids-in-classroom.jpg?s=1024x1024&w=is&k=20&c=sFIkJXeH0JJl4RFCCit2NGIlFXi_3BFWuNa7C7bvnTE=',
+    url: 'pdf1_page-0002.jpg',
     alt: 'School kids in classroom',
     link: '(link unavailable)'
   },
@@ -55,7 +55,7 @@ function SimpleSlider() {
                 <img
                   src={image.url}
                   alt={image.alt}
-                  className="w-full h-full object-cover"
+                  className="w-full h-full lg:object-contain"
                 />
               </a>
             </div>

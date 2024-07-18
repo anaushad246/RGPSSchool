@@ -48,7 +48,7 @@ const Header = () => {
             <Link to="/academics" className="text-white" onClick={closeMenu}>Academics</Link>
           </li>
           <li className="hover:text-gray-200">
-            <Link to="/events" className="text-white" onClick={closeMenu}>Events</Link>
+            <Link to="/welfare" className="text-white" onClick={closeMenu}>Welfare</Link>
           </li>
           <li className="hover:text-gray-200">
             <Link to="/gallery" className="text-white" onClick={closeMenu}>Gallery</Link>

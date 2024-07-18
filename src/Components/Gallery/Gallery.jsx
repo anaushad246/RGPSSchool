@@ -18,11 +18,11 @@ function Gallery() {
                     </p>
                     
                     <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-4">
-                        <img className="w-full h-80 rounded-lg shadow-md transform transition-transform hover:scale-105" src="https://images.pexels.com/photos/256490/pexels-photo-256490.jpeg" alt="Gallery Image 1" />
-                        <img className="w-full h-80 rounded-lg shadow-md transform transition-transform hover:scale-105" src="https://images.pexels.com/photos/207691/pexels-photo-207691.jpeg" alt="Gallery Image 2" />
-                        <img className="w-full h-80 rounded-lg shadow-md transform transition-transform hover:scale-105" src="https://images.pexels.com/photos/267885/pexels-photo-267885.jpeg" alt="Gallery Image 3" />
-                        <img className="w-full h-80 rounded-lg shadow-md transform transition-transform hover:scale-105" src="https://images.pexels.com/photos/1597097/pexels-photo-1597097.jpeg" alt="Gallery Image 4" />
-                        <img className="w-full h-80 rounded-lg shadow-md transform transition-transform hover:scale-105" src="https://images.pexels.com/photos/270404/pexels-photo-270404.jpeg" alt="Gallery Image 5" />
+                        <img className="w-full h-80 rounded-lg shadow-md transform transition-transform hover:scale-105" src="student1.jpg" alt="Gallery Image 1" />
+                        <img className="w-full h-80 rounded-lg shadow-md transform transition-transform hover:scale-105" src="student2.jpg" alt="Gallery Image 2" />
+                        <img className="w-full h-80 rounded-lg shadow-md transform transition-transform hover:scale-105" src="student3.jpg" alt="Gallery Image 3" />
+                        <img className="w-full h-80 rounded-lg shadow-md transform transition-transform hover:scale-105" src="student4.jpg" alt="Gallery Image 4" />
+                        <img className="w-full h-80 rounded-lg shadow-md transform transition-transform hover:scale-105" src="school1.jpg" alt="Gallery Image 5" />
                         <img className="w-full h-80 rounded-lg shadow-md transform transition-transform hover:scale-105" src="https://images.pexels.com/photos/590471/pexels-photo-590471.jpeg" alt="Gallery Image 6" />
                     </div>
                 </div>
