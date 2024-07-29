@@ -48,6 +48,9 @@ const Header = () => {
             <Link to="/academics" className="text-white" onClick={closeMenu}>Academics</Link>
           </li>
           <li className="hover:text-gray-200">
+            <Link to="/Events" className="text-white" onClick={closeMenu}>Events</Link>
+          </li>
+          <li className="hover:text-gray-200">
             <Link to="/welfare" className="text-white" onClick={closeMenu}>Welfare</Link>
           </li>
           <li className="hover:text-gray-200">
